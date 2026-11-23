@@ -24,8 +24,5 @@ dependencies = [
     "streamlit>=1.67.0",
 ]
 
-[project.optional-dependencies]
-app = ["databricks-sdk>=0.170.0"]
-
 [tool.databricks.environment]
 environment_version = '6'
