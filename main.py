@@ -1,6 +1,3 @@
-from pyspark.sql import SparkSession
-
-
 def main():
     print("Hello from cp422-network-intrusion-detection!")
 
